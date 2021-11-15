@@ -1,5 +1,6 @@
 # 지멘스 온라인 컨퍼런스 & 전시회
-![assets/website_url.gif](assets/website_url.gif)
+[![assets/website_url.gif](assets/website_url.gif)](https://siemens-evavconference.govent.io)
+
 ## Table of Content
 
 
@@ -44,7 +45,7 @@
 # Demo
 
 ### Website URL
-
+[![assets/website_url.gif](assets/website_url.gif)](https://siemens-evavconference.govent.io)
 #### [Website URL](https://siemens-evavconference.govent.io/)
 
 참고 - 현재는 행사기간이 아닌 관계로 대부분의 기능에 대한 접근이 차단되었습니다.
