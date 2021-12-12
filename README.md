@@ -21,17 +21,16 @@
 
 - 시스템 디자인
 - Expressjs RESTful API 구현
-- Mysql Query 구현
+- Mysql 쿼리문 구현
 - 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
 - Nextjs 어드민 페이지 생성 
 - AWS Infrastructure 구현 & 관리
-- Email, SMS, push 알림 자동화
+- 라이브 스트리밍, 비디오 스트리밍 스케줄링
+- SMS, 푸시 알림 기능 구현
 - User Authentication
-- Linux Crontab을 이용해 DB Back-up, file upload 자동화 
-- 푸쉬 알람, VOD 그리고 라이브 스트리밍 스케줄링
 - 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
 - 반응형 디자인 (모바일 기기, 테블릿 지원)
-- 데이터 통계
+- 앱 내 유저 액티비티 통계 산출
 - Gitlab Admistration
 
 
