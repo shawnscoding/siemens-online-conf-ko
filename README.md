@@ -23,6 +23,7 @@
 - Expressjs RESTful API 구현
 - MySQL DB Administration
 - 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
+- 컨퍼런스 예약, 즐겨찾기, 바로가기, 평점 등록 기능 구현
 - Nextjs 어드민 페이지 생성 
 - AWS Infrastructure 구축 (S3, Cloudfront, EC2)
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
