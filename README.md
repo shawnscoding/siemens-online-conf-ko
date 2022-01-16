@@ -29,8 +29,8 @@
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
 - SMS, 푸시 알림 구현
 - User Authentication
-- 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
-- 반응형 디자인 (모바일 기기, 테블릿 지원)
+- 브라우저 호환성 검사 (Chrome, Safari, Firefox, MS Edge, IE11)
+- 반응형 디자인 (모바일 기기, 태블릿 지원)
 - 유저 액티비티 통계 산출
 - Gitlab Administration
 
