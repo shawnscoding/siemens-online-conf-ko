@@ -20,19 +20,22 @@
 ### 본 프로젝트에서의 저의 업무 내용입니다:
 
 - 시스템 디자인
-- Expressjs RESTful API 구현
-- MySQL DB Administration
-- 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
-- 컨퍼런스 예약, 즐겨찾기, 바로가기, 평점 등록 기능 구현
-- Nextjs 어드민 페이지 생성 
-- AWS Infrastructure 구축 (S3, Cloudfront, EC2)
+- 컨퍼런스 예약, 즐겨찾기, 바로가기, 평점 등록 구현
+- 리액트 UI 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
+- Expressjs로 RESTful API 구현
+- MySQL 데이터베이스 관리
+- Webpack, Babel 환경 설정
+- Nextjs 어드민 패널 생성
+- AWS Infrastructure 구축 & 관리
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
 - SMS, 푸시 알림 구현
 - User Authentication
+- 사이트 최적화 (Webpack, Code Splitting, Lazy Load, HTTP Response Data Cache, CDN) 
 - 브라우저 호환성 검사 (Chrome, Safari, Firefox, MS Edge, IE11)
 - 반응형 디자인 (모바일 기기, 태블릿 지원)
 - 유저 액티비티 통계 산출
 - Gitlab Administration
+
 
 
 
