@@ -10,7 +10,7 @@ AWS (EC2, RDS, S3, CloudFront)
 
 ## Role & Responsibility
 
-- 시스템 디자인
+- 전체 시스템 디자인
 - 컨퍼런스 예약, 즐겨찾기, 바로가기, 평점 등록 구현
 - Express.js 기반 REST API 구현
 - MySQL 데이터베이스 관리
